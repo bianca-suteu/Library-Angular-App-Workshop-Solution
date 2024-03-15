@@ -1,0 +1,10 @@
+npm --version
+npm init @angular appName
+
+
+1. clone repo
+2. run app
+
+
+---
+out of the box
